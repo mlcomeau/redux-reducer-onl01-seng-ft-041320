@@ -6,3 +6,5 @@ export function managePresents(state, action){
       return state;
   }
 }
+
+let state = {numberOfPresents = 0}
